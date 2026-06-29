@@ -6,11 +6,11 @@ require (
 	github.com/go-chi/chi/v5 v5.2.5
 	github.com/go-viper/mapstructure/v2 v2.5.0
 	github.com/google/go-github/v82 v82.0.0
-	github.com/google/jsonschema-go v0.4.2
+	github.com/google/jsonschema-go v0.4.3
 	github.com/josephburnett/jd/v2 v2.5.0
 	github.com/lithammer/fuzzysearch v1.1.8
 	github.com/microcosm-cc/bluemonday v1.0.27
-	github.com/modelcontextprotocol/go-sdk v1.5.1-0.20260403154220-27f29c1cef3b
+	github.com/modelcontextprotocol/go-sdk v1.7.0-pre.1
 	github.com/muesli/cache2go v0.0.0-20221011235721-518229cd8021
 	github.com/shurcooL/githubv4 v0.0.0-20240727222349-48295856cce7
 	github.com/shurcooL/graphql v0.0.0-20230722043721-ed46e5a46466
@@ -41,8 +41,10 @@ require (
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/net v0.38.0 // indirect
 	golang.org/x/oauth2 v0.35.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
 	golang.org/x/sys v0.41.0 // indirect
 	golang.org/x/text v0.28.0 // indirect
+	golang.org/x/time v0.15.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
